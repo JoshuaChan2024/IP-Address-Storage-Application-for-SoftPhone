@@ -34,7 +34,7 @@
 <img src="./assets/validation2.jpg" alt="validation1" width="80%"/>
 </p>
 
-### The application also has the responsive-web design as shown in the minimized tab
+### The application also has a responsive-web design as shown in the minimized tab
 #### When the browser window is scaled down, the website will scale accordingly.
 <p align="center">
 <img src="./assets/responsiveness.jpg" alt="responsiveness" width="100%"/>

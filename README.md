@@ -18,6 +18,16 @@
 
 
 ## Some snapshots of my project
+### Features
+- Able to store up to 100 IP Addresses - Helps to consolidate all IP Addresses together which makes it easy to save and edit.
+- A functional numbered keypad that only works with the IP Address field.
+
+### Benefits
+- Significant Time Saving - Compared to Operator keying the IP address manually
+- Reduce Error - Operator keying in the wrong IP address.
+- Cost Saving - Satcom bandwidth is costly, and reduction in time can translate to real operational savings.
+- Automation - Address book can be updated by pre-configuration one time
+
 ### The final interface of the application. It consists of a list of the IP addresses stored and instructions to add new IP addresses.
 <p align="center">
 <img src="./assets/demo1.jpg" alt="ui" width="100%"/>
@@ -50,16 +60,6 @@
 <p align="center">
 <img src="./assets/php2.jpg" alt="php backend2" width="100%"/>
 </p>
-
-### Features
-- Able to store up to 100 IP Addresses - Helps to consolidate all IP Addresses together which makes it easy to save and edit.
-- A functional numbered keypad that only works with the IP Address field.
-
-### Benefits
-- Significant Time Saving - Compared to Operator keying the IP address manually
-- Reduce Error - Operator keying in the wrong IP address.
-- Cost Saving - Satcom bandwidth is costly, and reduction in time can translate to real operational savings.
-- Automation - Address book can be updated by pre-configuration one time 
 
 <p align="center">
   <br />
